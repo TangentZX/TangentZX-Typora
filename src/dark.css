@@ -1,0 +1,38 @@
+:root {
+  --tzx-bg: #282c34;
+  --tzx-surface: rgba(33, 37, 43, 0.76);
+  --tzx-surface-raised: rgba(40, 44, 52, 0.92);
+  --tzx-text: #abb2bf;
+  --tzx-text-muted: #8c95a5;
+  --tzx-primary: #7dafe9;
+  --tzx-accent: #7dafe9;
+  --tzx-nav-accent: #7dafe9;
+  --tzx-nav-hover: rgba(97, 175, 239, 0.08);
+  --tzx-border: rgba(92, 107, 192, 0.20);
+  --tzx-glass-border: rgba(121, 134, 203, 0.22);
+  --tzx-code-bg: #20232a;
+  --tzx-code-text: #d1d5df;
+  --tzx-syntax-plain: #d1d5df;
+  --tzx-syntax-keyword: #c792ea;
+  --tzx-syntax-definition: #82aaff;
+  --tzx-syntax-string: #f07178;
+  --tzx-syntax-comment: #8b95a5;
+  --tzx-syntax-number: #f78c6c;
+  --tzx-syntax-builtin: #ffcb6b;
+  --tzx-syntax-meta: #a6accd;
+  --mermaid-theme: night;
+  --tzx-selection: rgba(125, 175, 233, 0.24);
+  --tzx-shadow: 0 5px 16px rgba(15, 23, 42, 0.20);
+  --tzx-gradient: linear-gradient(110deg, rgba(97, 175, 239, 0.08), rgba(125, 175, 233, 0.06));
+  --tzx-blockquote-gradient-one: radial-gradient(circle at 8% 0%, rgba(99, 102, 241, 0.17), transparent 34%);
+  --tzx-blockquote-gradient-two: radial-gradient(circle at 92% 18%, rgba(56, 189, 248, 0.10), transparent 38%);
+  --tzx-blockquote-gradient-three: radial-gradient(circle at 62% 110%, rgba(192, 132, 252, 0.09), transparent 40%);
+  --tzx-blockquote-surface: rgba(33, 37, 43, 0.64);
+  --tzx-table-header-bg: rgba(74, 84, 175, 0.24);
+  --tzx-table-header-text: #eef0ff;
+  --tzx-table-header-border: rgba(97, 113, 245, 0.34);
+  --tzx-table-row-alt: rgba(97, 113, 245, 0.055);
+  --tzx-table-gradient-one: radial-gradient(circle at 5% 0%, rgba(99, 102, 241, 0.15), transparent 34%);
+  --tzx-table-gradient-two: radial-gradient(circle at 95% 10%, rgba(56, 189, 248, 0.08), transparent 38%);
+  --tzx-table-surface: rgba(33, 37, 43, 0.66);
+}
