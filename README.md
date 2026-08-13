@@ -1,8 +1,7 @@
 # TangentZX Typora Theme
 
 一款从 [TangentZX 博客文章页](https://tangentzx.com/) 提炼而来的 Typora
-主题，优先适配 Windows，同时提供独立的浅色和深色版本。主题保留 Typora
-原生文件树与大纲，不额外添加侧栏。
+主题，同时提供独立的浅色和深色版本。主题保留 Typora 原生文件树与大纲，不额外添加侧栏。
 
 ## 主题特点
 
@@ -52,29 +51,6 @@ Consolas 和系统等宽字体。
 
 关闭 Typora，从主题文件夹删除已安装的 `tangentzx-light.css` 和/或
 `tangentzx-dark.css`，然后重新启动。
-
-## 使用展示文档截图
-
-1. 安装推荐字体并打开 `showcase.md`。
-2. 展开 Typora 左侧文件树或大纲，使用较宽的编辑窗口。
-3. 分别选择浅色、深色主题，截取相同内容区域。
-4. 将图片保存为 `screenshots/light.png` 和 `screenshots/dark.png`。
-5. 删除“效果展示”中对应图片外层的 HTML 注释标记。
-
-## 开发与验证
-
-用户安装时不需要这一节中的文件。主题源码位于 `src/`，根目录 CSS 由
-PowerShell 脚本确定性生成：
-
-```powershell
-powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\build.ps1
-```
-
-运行完整契约：
-
-```powershell
-& .\tests\theme-contract.tests.ps1
-```
 
 ## 常见问题
 
