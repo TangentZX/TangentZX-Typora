@@ -14,17 +14,15 @@
 
 ## 效果展示
 
-截图前请先安装推荐字体，然后使用 `showcase.md` 在相同窗口宽度下分别
-切换浅色和深色主题。截图文件命名方法见
-[`screenshots/README.md`](screenshots/README.md)。
 
-<!-- 保存 screenshots/light.png 后删除本行和对应结束注释
-![TangentZX 浅色主题](screenshots/light.png)
--->
+![TangentZX 浅色主题](screenshots/light1.png)
 
-<!-- 保存 screenshots/dark.png 后删除本行和对应结束注释
-![TangentZX 深色主题](screenshots/dark.png)
--->
+![TangentZX 浅色主题](screenshots/light2.png)
+
+
+![TangentZX 深色主题](screenshots/dark1.png)
+
+![TangentZX 浅色主题](screenshots/dark2.png)
 
 ## 推荐字体
 
